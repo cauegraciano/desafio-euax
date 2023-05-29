@@ -1,6 +1,6 @@
 Usei React pois ja tive contato, nao comecei o back-end, pensei em usar
 o realm como banco de dados para coletar os dados que viriam do fornt-end.
-Para concluir o projeto precisaria criar a API e conficurar os routes das paginas, 
+Para concluir o projeto precisaria criar a API e configurar os routes das paginas, 
 alem do DB.
 
 Nao fui muito alem, nao conclui o desafio. Basicamente a tela de criarAtividades
